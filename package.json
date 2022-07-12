@@ -1,0 +1,16 @@
+{
+  "name": "Whatsapp",
+  "version": "1.0.0",
+  "description": "Whatsapp by Yash Thaker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Thaker",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.14.1"
+  }
+}
